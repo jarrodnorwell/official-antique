@@ -7,7 +7,6 @@ My name is Jarrod, I'm a 25 year old Senior Software Developer with 13 years exp
 - Birds
 - [emuDeeS](https://github.com/emuplace/emudees), [emuNES](https://github.com/emuplace/emunes), [emuOne](https://github.com/emuplace/emuone), [emuThreeDS](https://github.com/emuplace/emuthreeds)
 - [InstaPy2](https://github.com/instapy2/instapy2)
-- [Kiwi](https://github.com/official-antique/Kiwi)
 - Seniors Discount Cards
 - Texts
 - Torrento
