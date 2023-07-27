@@ -4,11 +4,11 @@
 My name is Jarrod, I'm a 25 year old Senior Software Developer with 13 years experience spanning across a handful of programming languages from the land best known for Steve Irwin and creatures that'll kill you on first sight.
 
 ## Current Projects
-- Birds
+- [Birds](https://texts.com)
 - [emuDeeS](https://github.com/emuplace/emudees), [emuNES](https://github.com/emuplace/emunes), [emuOne](https://github.com/emuplace/emuone), [emuThreeDS](https://github.com/emuplace/emuthreeds)
 - [InstaPy2](https://github.com/instapy2/instapy2)
 - Seniors Discount Cards
-- Texts
+- [Texts](https://texts.com)
 - Torrento
 
 ## Previous Projects
